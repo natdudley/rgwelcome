@@ -1,0 +1,84 @@
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal ul {
+  margin-bottom: 14px;
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal ul li {
+  line-height: normal;
+}
+
+.reveal ul li,
+.reveal pre {
+  font-size: 1.6em;
+}
+
+.reveal p {
+  font-size: 1.6em;
+  line-height: 1.6;
+}
+.title h1 {
+	color: white;
+	font-weight: bold;
+}
+.title h2 {
+	color: white;
+	font-weight: bold;
+}
+.title h3 {
+	color: white;
+}
+
+.title h4 {
+	color: white;
+}
+
+.title h5 {
+	color: white;
+}
+
+.title h6 {
+	color: white;
+}
+
+.title p {
+	color: white;
+	font-weight: bold; 
+}
+.title a{
+	color: white;
+}
+/*********************************************
+ * NAVIGATION CONTROLS
+ *********************************************/
+.reveal .controls div.navigate-left,
+.reveal .controls div.navigate-left.enabled {
+  border-right-color: #666666; }
+
+.reveal .controls div.navigate-right,
+.reveal .controls div.navigate-right.enabled {
+  border-left-color: #666666; }
+
+.reveal .controls div.navigate-up,
+.reveal .controls div.navigate-up.enabled {
+  border-bottom-color: #666666; }
+
+.reveal .controls div.navigate-down,
+.reveal .controls div.navigate-down.enabled {
+  border-top-color: #666666; }
+
+.reveal .controls div.navigate-left.enabled:hover {
+  border-right-color: #999999; }
+
+.reveal .controls div.navigate-right.enabled:hover {
+  border-left-color: #999999; }
+
+.reveal .controls div.navigate-up.enabled:hover {
+  border-bottom-color: #999999; }
+
+.reveal .controls div.navigate-down.enabled:hover {
+  border-top-color: #999999; }
